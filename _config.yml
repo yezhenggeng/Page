@@ -21,17 +21,17 @@ repository               : "yezhenggeng.github.io/Page/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Dr. Zhenggeng Ye"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : "Earth"
+  location         : "Zhengzhou, China"
   employer         : "Zhengzhou University"
   uri              : # URL "http://www7.zzu.edu.cn/glxy/info/1501/5176.htm"
   email            : "yezhenggeng@zzu.edu.cn" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://https://scholar.google.com/schhp?hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0636-9701"
   researchgate     : "https://www.researchgate.net/profile/Zhenggeng-Ye"
 
@@ -39,12 +39,11 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yezhenggeng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
