@@ -21,7 +21,7 @@ Work experience
   * Zhengzhou University, School of Management
   * Duties includes: Academic research
   
-* Nov. 2019 - Oct. 2021: Visiting scholar
+* Nov. 2019 - Oct. 2021: Visiting Scholar
   * Pennsylvania State University, Department of Industrial and Manufacturing Engineering
   * Duties includes: Academic research 
 
