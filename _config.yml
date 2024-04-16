@@ -12,7 +12,7 @@ title                    : "ZHENGGENG YE / Personal Page"
 title_separator          : "-"
 name                     : &name "Zhenggeng Ye"
 description              : &description "Associate Professor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://yezhenggeng.github.io/Page/"
+url                      : https://yezhenggeng.github.io/Page/ # the base hostname & protocol for your site e.g. "https://yezhenggeng.github.io/Page/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yezhenggeng.github.io/Page/"
 
