@@ -1,10 +1,10 @@
 ---
-permalink: /Professional Activities/
-title: "Professional Activities"
+permalink: /markdown/
+title: "markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Professional Activities.html
+  - /markdown.html
 ---
 
 # Professional Activities:
