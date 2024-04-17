@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+layout: archive
+title: "publications_CA"
+permalink: /publications_CA/
+author_profile: true
+---
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -16,12 +23,7 @@ author_profile: true
 {% endfor %}
 
 
----
-layout: archive
-title: "publications_CA"
-permalink: /publications_CA/
-author_profile: true
----
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
