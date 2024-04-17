@@ -1,6 +1,5 @@
 ---
-title: ""
-title: "Journal Paper
+title: "Journal Paper<br>
         RESS"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
