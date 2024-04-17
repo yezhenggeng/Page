@@ -1,10 +1,10 @@
 ---
 title: "JA 1: 生产作业可操作性评价理论方法框架模型研究"
 collection: publications
-permalink: /publication/2017-JA-机械工程学报-number-1
+permalink: /publication/2017-02-01-paper-ja-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-02-01
-venue: 'Journal 1'
+venue: '机械工程学报'
 paperurl: 'http://academicpages.github.io/files/JP2017-jixiegongcxuebao.pdf'
 citation: '孔繁森, 叶正梗 (2017). &quot;. 生产作业可操作性评价理论方法框架模型研究. 2017, 4: 028..&quot; <i>机械工程学报</i>. 4(53).'
 ---
