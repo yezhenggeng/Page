@@ -3,9 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
 
-
-
+---
 layout: archive
 title: "publications_CA"
 permalink: /publications_CA/
