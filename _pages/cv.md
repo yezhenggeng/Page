@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management science and engineerin, Northwestern Polytechnical University(NPU), Xi’an, China, 2021."http://academicpages.github.io/files/paper1.pdf"
+* Ph.D in Management science and engineerin, Northwestern Polytechnical University(NPU), Xi’an, China, 2021.
 * M.S. in Industrial Engineering, Jilin University, Changchun, China, 2015.
 * B.S. in Industrial Engineering, Henan University of Science and Technology, Luoyang, China, 2012.
 
