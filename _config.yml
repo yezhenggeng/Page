@@ -201,7 +201,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  foundations:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -247,10 +247,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _foundations
+  # portfolio
   - scope:
       path: ""
-      type: foundations
+      type: portfolio
     values:
       layout: single
       author_profile: true
