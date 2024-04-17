@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Journal Papers"
 permalink: /publications/
 author_profile: true
 ---
 
-Journal Papers
-======
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -19,8 +16,12 @@ Journal Papers
 {% endfor %}
 
 
-Conference papers 
-======
+---
+layout: archive
+title: "Conference papers"
+permalink: /publications/
+author_profile: true
+---
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -32,9 +33,12 @@ Conference papers
   {% include archive-single.html %}
 {% endfor %}
 
-
-Patents
-======
+---
+layout: archive
+title: "Patents"
+permalink: /publications/
+author_profile: true
+---
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
