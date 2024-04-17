@@ -201,6 +201,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  publications_CA
+    output: true
+    permalink: /:collection/:path/
   foundations:
     output: true
     permalink: /:collection/:path/
@@ -247,6 +250,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications_CA
+  - scope:
+      path: ""
+      type: _publications_CA
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true 
   # _foundations
   - scope:
       path: ""
