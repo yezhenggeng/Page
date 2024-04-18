@@ -1,7 +1,7 @@
 ---
-title: "JA 1: 生产作业可操作性评价理论方法框架模型研究"
+title: "JA [1]: 生产作业可操作性评价理论方法框架模型研究"
 collection: publications
-permalink: /publication/2017-02-01-paper-ja-number-1
+permalink: /publication/2017-02-01-paper-title-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-02-01
 venue: '机械工程学报'
